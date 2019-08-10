@@ -1,0 +1,5 @@
+The number of months is : $86
+The total amount of money is $: 38382578
+The average monthly change is $: 446309.05
+The lowest monthly change was the month Sep-2013 with a value of : $-1196225
+The highest monthly change was the month Feb-2012 with a value of : $1170593
